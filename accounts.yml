@@ -1,5 +1,5 @@
 accounts:
-  msg: {cipher}d804d412d1d36ae0cc3c2ee87473f6dc37e3af59cde5ce10f2b9cfede7db9432b73e76ac6892389189e92d13cc046dccfbb3ded0c7ab99d5fece9f813961cc98c7d92696e546f63524ac4aefc130d54c
+  msg: d804d412d1d36ae0cc3c2ee87473f6dc37e3af59cde5ce10f2b9cfede7db9432b73e76ac6892389189e92d13cc046dccfbb3ded0c7ab99d5fece9f813961cc98c7d92696e546f63524ac4aefc130d54c
   build-version: '3'
   mailDetails:
     hostName: default-accounts@eazybytes.com
