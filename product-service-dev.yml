@@ -1,5 +1,5 @@
 products:
-  msg: "development file"
+  msg: '{cipher}1217058c1bde228bff23efd7fc6d2c841500a01572b7ecf6ae4fc83ad4e92ca8005a799838a80c738d77bd89afae2d6a5ab338736c9408e2bf4b9c957e5c50d7'
   build-version: "3"
   mailDetails:
     hostName: default-accounts@eazybytes.com
