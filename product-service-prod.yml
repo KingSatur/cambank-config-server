@@ -1,5 +1,5 @@
 products:
-  msg: Welcome to the Cambank Accounts Dev application
+  msg: Welcome to the Cambank Accounts Prod application
   build-version: "2"
   mailDetails:
     hostName: dev-accounts@eazybytes.com
