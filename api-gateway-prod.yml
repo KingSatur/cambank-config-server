@@ -1,0 +1,11 @@
+products:
+  msg: Welcome to the java training api-gateway app
+  build-version: "1"
+  mailDetails:
+    hostName: prod@mail.com
+    port: "9010"
+    from: dev@mail.com
+  activeBranches:
+    - Hyderabad
+    - Master
+    - Main

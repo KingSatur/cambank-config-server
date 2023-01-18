@@ -1,0 +1,11 @@
+products:
+  msg: Welcome to the java training book-service app
+  build-version: "1"
+  mailDetails:
+    hostName: local@mail.com
+    port: "9010"
+    from: local@mail.com
+  activeBranches:
+    - Aburra
+    - Paris
+    - England
