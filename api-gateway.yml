@@ -1,11 +1,1 @@
-products:
-  msg: Welcome to the java training api-gateway app
-  build-version: "1"
-  mailDetails:
-    hostName: local@mail.com
-    port: "9010"
-    from: local@mail.com
-  activeBranches:
-    - Aburra
-    - Paris
-    - England
+spring.security.oauth2.resourceserver.jwt.issuer-uri={cipher}5284c47afbb62df96629d40f11c91d2dafa033c7f8d3f9f7cf0fe98f5179f716e280a99b399b40b9cb4c5acc66922558e04ecfb6cdfaa98c18589d066354d568cedee9be90fc10d571d8e96884c1c473
